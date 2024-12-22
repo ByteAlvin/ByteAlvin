@@ -1,3 +1,3 @@
 - Hi! I am a Master's student at the University of Chinese Academy of Sciences, majoring in CS.
-- Interested in ML & RS.
+- Interested in artificial intelligence & remote sensing.
 - Please visit [my homepage](https://bytealvin.github.io) for my publications and more.
